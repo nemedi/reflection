@@ -1,0 +1,258 @@
+Id,Name,District,Inhabitants
+1,Sofia,Sofia,1241396
+2,Plovdiv,Plovdiv,339077
+3,Varna,Varna,334688
+4,Burgas,Burgas,200612
+5,Ruse,Rousse,151951
+6,Stara Zagora,Stara Zagora,137907
+7,Pleven,Pleven,108214
+8,Sliven,Sliven,92162
+9,Dobrich,Dobrich,89620
+10,Pernik,Pernik,80620
+11,Shumen,Shumen,80114
+12,Haskovo,Haskovo,75336
+13,Yambol,Yambol,74132
+14,Pazardzhik,Pazardzhik,71979
+15,Blagoevgrad,Blagoevgrad,70881
+16,Veliko Tarnovo,Veliko Tarnovo,68783
+17,Vratsa,Vratsa,60692
+18,Gabrovo,Gabrovo,58930
+19,Asenovgrad,Plovdiv,50846
+20,Vidin,Vidin,48071
+21,Kazanlak,Stara Zagora,47325
+22,Kyustendil,Kyustendil,44532
+23,Kardzhali,Kardzhali,43880
+24,Montana,Montana,43781
+25,Dimitrovgrad,Haskovo,38785
+26,Targovishte,Targovishte,37611
+27,Lovech,Lovech,36600
+28,Silistra,Silistra,35607
+29,Dupnitsa,Kyustendil,35506
+30,Svishtov,Veliko Tarnovo,34842
+31,Razgrad,Razgrad,33880
+32,Gorna Oryahovitsa,Veliko Tarnovo,32079
+33,Smolyan,Smolyan,30642
+34,Petrich,Blagoevgrad,29836
+35,Sandanski,Blagoevgrad,26959
+36,Samokov,Sofia,26061
+37,Sevlievo,Gabrovo,23908
+38,Lom,Montana,23836
+39,Karlovo,Plovdiv,23797
+40,Velingrad,Pazardzhik,23479
+41,Nova Zagora,Sliven,23325
+42,Troyan,Lovech,21723
+43,Aytos,Burgas,20930
+44,Botevgrad,Sofia,20444
+45,Gotse Delchev,Blagoevgrad,19721
+46,Peshtera,Pazardzhik,19288
+47,Harmanli,Haskovo,18360
+48,Karnobat,Burgas,18214
+49,Svilengrad,Haskovo,18005
+50,Panagyurishte,Pazardzhik,17675
+51,Chirpan,Stara Zagora,16133
+52,Popovo,Targovishte,15286
+53,Rakovski,Plovdiv,15052
+54,Radomir,Pernik,13873
+55,Novi Iskar,Sofia,13855
+56,Kozloduy,Vratsa,13752
+57,Parvomay,Plovdiv,13733
+58,Berkovitsa,Montana,13721
+59,Cherven Bryag,Pleven,13634
+60,Pomorie,Burgas,13432
+61,Ihtiman,Sofia,13297
+62,Radnevo,Stara Zagora,13207
+63,Provadiya,Varna,12766
+64,Novi Pazar,Shumen,12613
+65,Razlog,Blagoevgrad,12472
+66,Byala Slatina,Vratsa,12289
+67,Nesebar,Burgas,12133
+68,Balchik,Dobrich,12127
+69,Kostinbrod,Sofia,11896
+70,Stamboliyski,Plovdiv,11575
+71,Kavarna,Dobrich,11340
+72,Knezha,Pleven,11063
+73,Pavlikeni,Veliko Tarnovo,10850
+74,Mezdra,Vratsa,10769
+75,Etropole,Sofia,10750
+76,Levski,Pleven,10528
+77,Teteven,Lovech,10429
+78,Elhovo,Yambol,10367
+79,Bankya,Sofia,10126
+80,Tryavna,Gabrovo,9569
+81,Lukovit,Lovech,9535
+82,Tutrakan,Silistra,9371
+83,Sredets,Burgas,9122
+84,Sopot,Plovdiv,9076
+85,Byala,Rousse,8890
+86,Veliki Preslav,Shumen,8886
+87,Isperih,Razgrad,8829
+88,Belene,Pleven,8761
+89,Omurtag,Targovishte,8612
+90,Bansko,Blagoevgrad,8562
+91,Krichim,Plovdiv,8463
+92,Galabovo,Stara Zagora,8425
+93,Devnya,Varna,8369
+94,Septemvri,Pazardzhik,8320
+95,Rakitovo,Pazardzhik,8277
+96,Lyaskovets,Veliko Tarnovo,8164
+97,Svoge,Sofia,8033
+98,Aksakovo,Varna,7978
+99,Kubrat,Razgrad,7898
+100,Dryanovo,Gabrovo,7892
+101,Beloslav,Varna,7878
+102,Pirdop,Sofia,7651
+103,Lyubimets,Haskovo,7587
+104,Momchilgrad,Kardzhali,7542
+105,Slivnitsa,Sofia,7333
+106,Hisarya,Plovdiv,7239
+107,Zlatograd,Smolyan,7077
+108,Kostenets,Sofia,7018
+109,Devin,Smolyan,6996
+110,General Toshevo,Dobrich,6979
+111,Simeonovgrad,Haskovo,6941
+112,Simitli,Blagoevgrad,6781
+113,Elin Pelin,Sofia,6705
+114,Dolni Chiflik,Varna,6698
+115,Tervel,Dobrich,6682
+116,Dulovo,Silistra,6568
+117,Varshets,Montana,6428
+118,Kotel,Sliven,6066
+119,Madan,Smolyan,6026
+120,Straldzha,Yambol,5977
+121,Saedinenie,Plovdiv,5951
+122,Bobov Dol,Kyustendil,5891
+123,Tsarevo,Burgas,5882
+124,Kuklen,Plovdiv,5837
+125,Tvarditsa,Sliven,5651
+126,Yakoruda,Blagoevgrad,5627
+127,Elena,Veliko Tarnovo,5623
+128,Topolovgrad,Haskovo,5542
+129,Bozhurishte,Sofia,5439
+130,Chepelare,Smolyan,5344
+131,Oryahovo,Vratsa,5331
+132,Sozopol,Burgas,5286
+133,Belogradchik,Vidin,5242
+134,Perushtitsa,Plovdiv,5149
+135,Zlatitsa,Sofia,5090
+136,Strazhitsa,Veliko Tarnovo,5085
+137,Krumovgrad,Kardzhali,4861
+138,Kameno,Burgas,4784
+139,Dalgopol,Varna,4781
+140,Vetovo,Rousse,4758
+141,Suvorovo,Varna,4745
+142,Dolni Dabnik,Pleven,4706
+143,Dolna Banya,Sofia,4665
+144,Pravets,Sofia,4621
+145,Nedelino,Smolyan,4529
+146,Polski Trambesh,Veliko Tarnovo,4470
+147,Trastenik,Pleven,4460
+148,Bratsigovo,Pazardzhik,4386
+149,Koynare,Pleven,4383
+150,Godech,Sofia,4355
+151,Slavyanovo,Pleven,4342
+152,Dve Mogili,Rousse,4314
+153,Kostandovo,Pazardzhik,4277
+154,Debelets,Veliko Tarnovo,4254
+155,Strelcha,Pazardzhik,4240
+156,Sapareva Banya,Kyustendil,4069
+157,Ignatievo,Varna,4026
+158,Smyadovo,Shumen,3986
+159,Breznik,Pernik,3940
+160,Sveti Vlas,Burgas,3886
+161,Nikopol,Pleven,3832
+162,Shivachevo,Sliven,3795
+163,Belovo,Pazardzhik,3794
+164,Tsar Kaloyan,Razgrad,3782
+165,Ivaylovgrad,Haskovo,3704
+166,Valchedram,Montana,3696
+167,Marten,Rousse,3673
+168,Glodzhevo,Rousse,3596
+169,Sarnitsa,Pazardzhik,3579
+170,Letnitsa,Lovech,3577
+171,Varbitsa,Shumen,3560
+172,Iskar,Pleven,3539
+173,Ardino,Kardzhali,3530
+174,Shabla,Dobrich,3505
+175,Rudozem,Smolyan,3499
+176,Vetren,Pazardzhik,3463
+177,Kresna,Blagoevgrad,3428
+178,Banya,Plovdiv,3427
+179,Batak,Pazardzhik,3422
+180,Maglizh,Stara Zagora,3398
+181,Valchi Dol,Varna,3392
+182,Gulyantsi,Pleven,3372
+183,Dragoman,Sofia,3332
+184,Zavet,Razgrad,3316
+185,Kran,Stara Zagora,3295
+186,Miziya,Vratsa,3289
+187,Primorsko,Burgas,3282
+188,Sungurlare,Burgas,3282
+189,Dolna Mitropoliya,Pleven,3260
+190,Krivodol,Vratsa,3250
+191,Kula,Vidin,3220
+192,Kalofer,Plovdiv,3191
+193,Slivo Pole,Rousse,3179
+194,Kaspichan,Shumen,3175
+195,Apriltsi,Lovech,3121
+196,Belitsa,Blagoevgrad,3091
+197,Roman,Vratsa,3088
+198,Dzhebel,Kardzhali,2982
+199,Dolna Oryahovitsa,Veliko Tarnovo,2969
+200,Buhovo,Sofia,2952
+201,Gurkovo,Stara Zagora,2917
+202,Pavel Banya,Stara Zagora,2914
+203,Nikolaevo,Stara Zagora,2864
+204,Yablanitsa,Lovech,2855
+205,Kableshkovo,Burgas,2820
+206,Opaka,Targovishte,2817
+207,Rila,Kyustendil,2807
+208,Ugarchin,Lovech,2774
+209,Dunavtsi,Vidin,2730
+210,Dobrinishte,Blagoevgrad,2681
+211,Hadzhidimovo,Blagoevgrad,2610
+212,Bregovo,Vidin,2552
+213,Byala Cherkva,Veliko Tarnovo,2547
+214,Zlataritsa,Veliko Tarnovo,2544
+215,Kocherinovo,Kyustendil,2542
+216,Dospat,Smolyan,2540
+217,Tran,Pernik,2492
+218,Sadovo,Plovdiv,2491
+219,Laki,Plovdiv,2406
+220,Koprivshtitsa,Sofia,2377
+221,Malko Tarnovo,Burgas,2377
+222,Loznitsa,Razgrad,2361
+223,Obzor,Burgas,2351
+224,Kilifarevo,Veliko Tarnovo,2292
+225,Borovo,Rousse,2275
+226,Batanovtsi,Pernik,2247
+227,Chernomorets,Burgas,2204
+228,Aheloy,Burgas,2183
+229,Byala,Varna,2130
+230,Pordim,Pleven,2086
+231,Suhindol,Veliko Tarnovo,2086
+232,Merichleri,Haskovo,1915
+233,Glavinitsa,Silistra,1891
+234,Chiprovtsi,Montana,1862
+235,Kermen,Sliven,1859
+236,Brezovo,Plovdiv,1858
+237,Plachkovtsi,Gabrovo,1854
+238,Zemen,Pernik,1834
+239,Balgarovo,Burgas,1819
+240,Alfatar,Silistra,1668
+241,Boychinovtsi,Montana,1615
+242,Gramada,Vidin,1580
+243,Senovo,Rousse,1550
+244,Momin Prohod,Sofia,1543
+245,Kaolinovo,Shumen,1492
+246,Shipka,Stara Zagora,1466
+247,Antonovo,Targovishte,1429
+248,Ahtopol,Burgas,1310
+249,Boboshevo,Kyustendil,1291
+250,Bolyarovo,Yambol,1264
+251,Brusartsi,Montana,1264
+252,Klisura,Plovdiv,1241
+253,Dimovo,Vidin,1188
+254,Kiten,Burgas,1127
+255,Pliska,Shumen,1045
+256,Madzharovo,Haskovo,613
+257,Melnik,Blagoevgrad,347
